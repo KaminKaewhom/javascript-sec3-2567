@@ -1,2 +1,2 @@
-# javascript-sec3-2567
+# javascript-sec2-2567
 learning javascript
